@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c25c9793-3d66-4e73-b756-80e019c43724" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/web/admin/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web/admin" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="SSunSShine" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="db_travel" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1mKjkGGUoY5r4ROMP8CPoLOE95R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GoProject\src\github.com\SSunSShine\travel\static\admin" />
+      <recent name="D:\GoProject\src\github.com\SSunSShine\travel\web\admin\src\components\admin" />
+      <recent name="D:\GoProject\src\github.com\SSunSShine\travel\middleware" />
+      <recent name="D:\GoProject\src\github.com\SSunSShine\travel\route" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GoProject\src\github.com\SSunSShine\travel" />
+      <recent name="D:\GoProject\src\github.com\SSunSShine\travel\static\admin" />
+      <recent name="D:\GoProject\src\github.com\SSunSShine\travel\web\admin\src\components\Hotel" />
+      <recent name="D:\GoProject\src\github.com\SSunSShine\travel\web\admin\src\components\Flight" />
+      <recent name="D:\GoProject\src\github.com\SSunSShine\travel\web\admin\src\components\Car" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/SSunSShine/travel" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="travel" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/SSunSShine/travel" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/SSunSShine/travel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609249323465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1609249323465" />
+    <state x="511" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610776383713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1610776383713" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610777099753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1610777099753" />
+    <state x="634" y="135" key="FileChooserDialogImpl" timestamp="1610872470921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="634" y="135" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610872470921" />
+    <state x="511" y="305" key="Github.CreateGistDialog" timestamp="1610872740439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="305" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1610872740439" />
+    <state x="472" y="253" key="Github.CreatePullRequestDialog" timestamp="1610872717048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="472" y="253" key="Github.CreatePullRequestDialog/0.0.1536.824@0.0.1536.824" timestamp="1610872717048" />
+    <state x="572" y="284" key="Github.ShareDialog" timestamp="1610872591204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="572" y="284" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1610872591204" />
+    <state width="1493" height="231" key="GridCell.Tab.0.bottom" timestamp="1610872471930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610872471930" />
+    <state width="1493" height="231" key="GridCell.Tab.0.center" timestamp="1610872471930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610872471930" />
+    <state width="1493" height="231" key="GridCell.Tab.0.left" timestamp="1610872471930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610872471930" />
+    <state width="1493" height="231" key="GridCell.Tab.0.right" timestamp="1610872471930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610872471930" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1610720608606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610720608606" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1610692681848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1610692681848" />
+    <state x="574" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610807437838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1610807437838" />
+    <state x="558" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1610809695304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="558" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1610809695304" />
+  </component>
+</project>
