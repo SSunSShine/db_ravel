@@ -8,9 +8,9 @@ import (
 
 type Reservation struct {
 	ResvKey  string    `json:"resv_key" gorm:"type:varchar(50);primary_key;not null"`
-	CustName string    `json:"cust_name" gorm:"type:varchar(50);not null"`
+	CustName string    `json:"cust_name" gorm:"type:varchar(50);primary_key;not null"`
 	Type     int       `json:"type" gorm:"type:int;not null"` // 1 为 Car, 2 为 Flight, 3 为 Hotel
-	ResDate  time.Time `json:"res_date" gorm:"type:DATE"`
+	ResDate  time.Time `json:"res_date" gorm:"type:DATE;primary_key;not null"`
 }
 
 func (r *Reservation) Get() (reservation Reservation, err error) {

@@ -11,6 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c25c9793-3d66-4e73-b756-80e019c43724" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/reservation.go" beforeDir="false" afterPath="$PROJECT_DIR$/model/reservation.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/admin/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/babel.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/admin/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/src/App.vue" afterDir="false" />
@@ -37,7 +40,7 @@
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web/admin" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
